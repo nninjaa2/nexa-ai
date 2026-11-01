@@ -1,0 +1,15 @@
+NEXA - FRONTEND GITHUB PAGES v3.0.11-Pages
+
+Carica su GitHub SOLO questi file della cartella frontend:
+index.html, app.js, markdown.js, styles.css, la cartella logos, .nojekyll.
+NON caricare l'archivio .zip direttamente.
+NON caricare CONFIGURA_PAGES.bat, server/, data/, .env, o credenziali.
+
+GitHub repository -> Add file -> Upload files -> Commit changes.
+Settings -> Pages -> Deploy from a branch -> main -> /(root) -> Save.
+URL: https://TUOUSERNAME.github.io/NOME_REPOSITORY/
+
+Apri dal PC dove gira il backend: prima configura il pacchetto backend,
+poi clicca Connetti Nexa e inserisci la chiave privata nel browser.
+Usa Chrome o Edge aggiornato per i permessi di accesso alla rete locale.
+Il sito e' visibile pubblicamente, ma la tua chat resta nel backend locale.
